@@ -14,7 +14,7 @@ def link
 end
 
 def all_phrases
-  everything = mario
+  everything = toadstool
   puts everything
 end
 
