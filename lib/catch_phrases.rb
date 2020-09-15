@@ -18,3 +18,4 @@ def all_phrases
   puts all_phrases 
 end
 
+all_phrases
